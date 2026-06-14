@@ -6,6 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Singleplayer](https://img.shields.io/badge/Mode-Single--Player-orange)
 ![License](https://img.shields.io/badge/License-Custom-red)
+
 An advanced single-player mod menu for **Neon Abyss** featuring gameplay tools, item spawning, weapon systems, room controls, and quality-of-life features.
 
 > **Status:** Active Development
